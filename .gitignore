@@ -1,0 +1,22 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vscode/
+*.user
+*.suo
+*.cache
+*.db
+*.opendb
+*.VC.db
+
+# Logs
+*.log
+
+# .NET output files
+*.dll
+*.exe
+*.pdb
+*.deps.json
+*.runtimeconfig.json
